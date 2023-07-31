@@ -61,8 +61,8 @@ At the end of this project, We were able to undesrtand these questions:
 
 | Filename |
 | ------ |
-| [0-binary_tree_node.c](https://github.com/cartoon01/0x1D-binary_trees/blob/master/0-binary_tree_node.c)|
-| [1-binary_tree_insert_left.c](https://github.com/cartoon01/0x1D-binary_trees/blob/master/1-binary_tree_insert_left.c)|
+| [0-binary_tree_node.c](https://github.com/cartoon01/0x1D-binary_trees/main/0-binary_tree_node.c)|
+| [1-binary_tree_insert_left.c](https://github.com/cartoon01/0x1D-binary_trees/main/1-binary_tree_insert_left.c)|
 | [2-binary_tree_insert_right.c](https://github.com/cartoon01/0x1D-binary_trees/blob/master/2-binary_tree_insert_right.c)|
 | [3-binary_tree_delete.c](https://github.com/cartoon01/0x1D-binary_trees/blob/master/3-binary_tree_delete.c)|
 | [4-binary_tree_is_leaf.c](https://github.com/cartoon01/0x1D-binary_trees/blob/master/4-binary_tree_is_leaf.c)|
